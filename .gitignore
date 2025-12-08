@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+.env
+.venv/
+.vscode/
+# We commit data/ for the Golden Cohort only
+data/archive/
