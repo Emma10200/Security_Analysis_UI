@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-12-09T09:05:18.627000",
+  "generated_at": "2025-12-09T09:06:16.894423",
   "source": "C:\\FinancialData\\Production\\warehouse\\l5_audit_warehouse",
   "files": [
     {
@@ -126,7 +126,7 @@
       "type": "ttm",
       "filename": "PEP_ttm.parquet",
       "rows": 65,
-      "size_bytes": 73881
+      "size_bytes": 74454
     },
     {
       "ticker": "COST",
@@ -147,7 +147,7 @@
       "type": "ttm",
       "filename": "COST_ttm.parquet",
       "rows": 65,
-      "size_bytes": 199837
+      "size_bytes": 199885
     },
     {
       "ticker": "WMT",
