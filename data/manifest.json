@@ -1,216 +1,216 @@
 {
-  "generated_at": "2025-12-09T09:35:02.867381",
-  "source": "C:\\FinancialData\\Production\\warehouse\\l5_audit_warehouse",
+  "generated_at": "2025-12-09T15:04:34.082424",
+  "source": "c:\\Dev\\security_analysis_systems\\financial_data_lake\\warehouse\\l5_audit_warehouse",
   "files": [
     {
       "ticker": "JPM",
       "type": "annual",
       "filename": "JPM_annual.parquet",
-      "rows": 17,
-      "size_bytes": 240993
+      "rows": 16,
+      "size_bytes": 218560
     },
     {
       "ticker": "JPM",
       "type": "quarterly",
       "filename": "JPM_quarterly.parquet",
-      "rows": 49,
-      "size_bytes": 273713
+      "rows": 50,
+      "size_bytes": 240989
     },
     {
       "ticker": "JPM",
       "type": "ttm",
       "filename": "JPM_ttm.parquet",
       "rows": 66,
-      "size_bytes": 231125
+      "size_bytes": 226064
     },
     {
       "ticker": "AAPL",
       "type": "annual",
       "filename": "AAPL_annual.parquet",
       "rows": 18,
-      "size_bytes": 273547
+      "size_bytes": 264548
     },
     {
       "ticker": "AAPL",
       "type": "quarterly",
       "filename": "AAPL_quarterly.parquet",
       "rows": 49,
-      "size_bytes": 295571
+      "size_bytes": 282808
     },
     {
       "ticker": "AAPL",
       "type": "ttm",
       "filename": "AAPL_ttm.parquet",
       "rows": 67,
-      "size_bytes": 262672
+      "size_bytes": 258615
     },
     {
       "ticker": "MSFT",
       "type": "annual",
       "filename": "MSFT_annual.parquet",
       "rows": 16,
-      "size_bytes": 237624
+      "size_bytes": 216608
     },
     {
       "ticker": "MSFT",
       "type": "quarterly",
       "filename": "MSFT_quarterly.parquet",
       "rows": 49,
-      "size_bytes": 263027
+      "size_bytes": 237454
     },
     {
       "ticker": "MSFT",
       "type": "ttm",
       "filename": "MSFT_ttm.parquet",
       "rows": 65,
-      "size_bytes": 224433
+      "size_bytes": 218083
     },
     {
       "ticker": "XOM",
       "type": "annual",
       "filename": "XOM_annual.parquet",
       "rows": 16,
-      "size_bytes": 234609
+      "size_bytes": 212978
     },
     {
       "ticker": "XOM",
       "type": "quarterly",
       "filename": "XOM_quarterly.parquet",
       "rows": 50,
-      "size_bytes": 253381
+      "size_bytes": 228542
     },
     {
       "ticker": "XOM",
       "type": "ttm",
       "filename": "XOM_ttm.parquet",
       "rows": 66,
-      "size_bytes": 213328
+      "size_bytes": 208743
     },
     {
       "ticker": "KO",
       "type": "annual",
       "filename": "KO_annual.parquet",
       "rows": 16,
-      "size_bytes": 234487
+      "size_bytes": 213304
     },
     {
       "ticker": "KO",
       "type": "quarterly",
       "filename": "KO_quarterly.parquet",
-      "rows": 49,
-      "size_bytes": 261888
+      "rows": 47,
+      "size_bytes": 226000
     },
     {
       "ticker": "KO",
       "type": "ttm",
       "filename": "KO_ttm.parquet",
-      "rows": 65,
-      "size_bytes": 210031
+      "rows": 63,
+      "size_bytes": 202581
     },
     {
       "ticker": "PEP",
       "type": "annual",
       "filename": "PEP_annual.parquet",
-      "rows": 16,
-      "size_bytes": 234752
+      "rows": 15,
+      "size_bytes": 211593
     },
     {
       "ticker": "PEP",
       "type": "quarterly",
       "filename": "PEP_quarterly.parquet",
       "rows": 49,
-      "size_bytes": 259806
+      "size_bytes": 227243
     },
     {
       "ticker": "PEP",
       "type": "ttm",
       "filename": "PEP_ttm.parquet",
-      "rows": 65,
-      "size_bytes": 211464
+      "rows": 64,
+      "size_bytes": 205330
     },
     {
       "ticker": "COST",
       "type": "annual",
       "filename": "COST_annual.parquet",
       "rows": 16,
-      "size_bytes": 235285
+      "size_bytes": 266862
     },
     {
       "ticker": "COST",
       "type": "quarterly",
       "filename": "COST_quarterly.parquet",
       "rows": 49,
-      "size_bytes": 260164
+      "size_bytes": 288269
     },
     {
       "ticker": "COST",
       "type": "ttm",
       "filename": "COST_ttm.parquet",
       "rows": 65,
-      "size_bytes": 214896
+      "size_bytes": 252706
     },
     {
       "ticker": "WMT",
       "type": "annual",
       "filename": "WMT_annual.parquet",
-      "rows": 18,
-      "size_bytes": 225591
+      "rows": 16,
+      "size_bytes": 211841
     },
     {
       "ticker": "WMT",
       "type": "quarterly",
       "filename": "WMT_quarterly.parquet",
-      "rows": 53,
-      "size_bytes": 249212
+      "rows": 50,
+      "size_bytes": 226488
     },
     {
       "ticker": "WMT",
       "type": "ttm",
       "filename": "WMT_ttm.parquet",
-      "rows": 71,
-      "size_bytes": 197588
+      "rows": 66,
+      "size_bytes": 208812
     },
     {
       "ticker": "GS",
       "type": "annual",
       "filename": "GS_annual.parquet",
       "rows": 16,
-      "size_bytes": 239362
+      "size_bytes": 215806
     },
     {
       "ticker": "GS",
       "type": "quarterly",
       "filename": "GS_quarterly.parquet",
       "rows": 50,
-      "size_bytes": 267392
+      "size_bytes": 235441
     },
     {
       "ticker": "GS",
       "type": "ttm",
       "filename": "GS_ttm.parquet",
       "rows": 66,
-      "size_bytes": 229069
+      "size_bytes": 220579
     },
     {
       "ticker": "CAT",
       "type": "annual",
       "filename": "CAT_annual.parquet",
       "rows": 16,
-      "size_bytes": 235974
+      "size_bytes": 210309
     },
     {
       "ticker": "CAT",
       "type": "quarterly",
       "filename": "CAT_quarterly.parquet",
       "rows": 50,
-      "size_bytes": 258496
+      "size_bytes": 223211
     },
     {
       "ticker": "CAT",
       "type": "ttm",
       "filename": "CAT_ttm.parquet",
       "rows": 66,
-      "size_bytes": 222018
+      "size_bytes": 212771
     }
   ]
 }
