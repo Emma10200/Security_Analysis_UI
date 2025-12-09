@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-12-09T08:49:33.739193",
+  "generated_at": "2025-12-09T08:50:02.056803",
   "source": "C:\\FinancialData\\Production\\warehouse\\l5_audit_warehouse",
   "files": [
     {
@@ -148,6 +148,27 @@
       "filename": "COST_ttm.parquet",
       "rows": 49,
       "size_bytes": 192327
+    },
+    {
+      "ticker": "WMT",
+      "type": "annual",
+      "filename": "WMT_annual.parquet",
+      "rows": 18,
+      "size_bytes": 225591
+    },
+    {
+      "ticker": "WMT",
+      "type": "quarterly",
+      "filename": "WMT_quarterly.parquet",
+      "rows": 53,
+      "size_bytes": 249212
+    },
+    {
+      "ticker": "WMT",
+      "type": "ttm",
+      "filename": "WMT_ttm.parquet",
+      "rows": 53,
+      "size_bytes": 183538
     },
     {
       "ticker": "GS",
