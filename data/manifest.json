@@ -1,66 +1,66 @@
 {
-  "generated_at": "2025-12-08T17:10:22.196052",
+  "generated_at": "2025-12-09T06:57:56.957938",
   "source": "C:\\FinancialData\\Production\\warehouse\\l5_audit_warehouse",
   "files": [
     {
       "ticker": "JPM",
       "filename": "JPM.parquet",
-      "size_bytes": 867905,
-      "modified": "2025-12-08T16:39:52.528577"
+      "size_bytes": 294898,
+      "modified": "2025-12-09T06:57:57.019070"
     },
     {
       "ticker": "AAPL",
       "filename": "AAPL.parquet",
-      "size_bytes": 597340,
-      "modified": "2025-12-08T16:36:56.650674"
+      "size_bytes": 280055,
+      "modified": "2025-12-09T06:57:57.057489"
     },
     {
       "ticker": "MSFT",
       "filename": "MSFT.parquet",
-      "size_bytes": 620205,
-      "modified": "2025-12-08T16:41:14.447684"
+      "size_bytes": 282669,
+      "modified": "2025-12-09T06:57:57.096755"
     },
     {
       "ticker": "XOM",
       "filename": "XOM.parquet",
-      "size_bytes": 592870,
-      "modified": "2025-12-08T16:43:08.760597"
+      "size_bytes": 272799,
+      "modified": "2025-12-09T06:57:57.139197"
     },
     {
       "ticker": "KO",
       "filename": "KO.parquet",
-      "size_bytes": 758345,
-      "modified": "2025-12-08T16:40:29.969142"
+      "size_bytes": 277719,
+      "modified": "2025-12-09T06:57:57.179585"
     },
     {
       "ticker": "PEP",
       "filename": "PEP.parquet",
-      "size_bytes": 637963,
-      "modified": "2025-12-08T16:41:50.936717"
+      "size_bytes": 277098,
+      "modified": "2025-12-09T06:57:57.220841"
     },
     {
       "ticker": "COST",
       "filename": "COST.parquet",
-      "size_bytes": 552897,
-      "modified": "2025-12-08T16:38:44.019636"
+      "size_bytes": 277227,
+      "modified": "2025-12-09T06:57:57.251006"
     },
     {
       "ticker": "WMT",
       "filename": "WMT.parquet",
-      "size_bytes": 497106,
-      "modified": "2025-12-08T16:42:29.593007"
+      "size_bytes": 259772,
+      "modified": "2025-12-09T06:57:57.288035"
     },
     {
       "ticker": "GS",
       "filename": "GS.parquet",
-      "size_bytes": 683520,
-      "modified": "2025-12-08T16:39:17.832115"
+      "size_bytes": 287422,
+      "modified": "2025-12-09T06:57:57.328918"
     },
     {
       "ticker": "CAT",
       "filename": "CAT.parquet",
-      "size_bytes": 711236,
-      "modified": "2025-12-08T16:38:07.266296"
+      "size_bytes": 276720,
+      "modified": "2025-12-09T06:57:57.376073"
     }
   ]
 }
